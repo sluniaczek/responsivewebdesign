@@ -18,16 +18,16 @@ In here I will keep track on what I learned and how I solved the tasks presented
 
 - Create 3 different sections for Cat Photos, Cat Lists, and Cat Form
     1. Cat Photos
-      - Include an image of a cat
-      - Include a link to more cat photos
-   2. Cat Lists
-      - Use unorderd list for cat likes
-        - Include an image of one like
-        - Emphasis one word
-      - Use ordered lists for cat dislikes
-        - Include an image for one dislike
-        - strong one word
-   3. Cat Form
-      - Create a form for users to submit the type (indoor/outdoor), their personality, and a picture of their cat
-      - Create one group for type and one group for personality
+       - Include an image of a cat
+       - Include a link to more cat photos
+    2. Cat Lists
+       - Use unorderd list for cat likes
+         - Include an image of one like
+         - Emphasis one word
+       - Use ordered lists for cat dislikes
+         - Include an image for one dislike
+         - strong one word
+    3. Cat Form
+       - Create a form for users to submit the type (indoor/outdoor), their personality, and a picture of their cat
+       - Create one group for type and one group for personality
 - Include a footer with general information

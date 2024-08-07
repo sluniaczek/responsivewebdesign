@@ -9,11 +9,13 @@
 <body>
     <main>
         <h1>CatPhotoApp</h1>
+        <!--Section for cat phots-->
         <section>
             <h2>Cat Photos</h2>
             <p>See more <a href="#">cat photos</a> in our gallery.</p>
             <a href="#"><img src="images/relaxing-cat.jpg" alt="orange cat lying on back looking into camera"></a>
         </section>
+        <!--Section for lists-->
         <section>
             <h2>Cat Lists</h2>
             <h3>Things cats love:</h3>
@@ -39,7 +41,27 @@
                 <figcaption>
                     Cats <strong>hate</strong> other cats.
                 </figcaption>
-            </figure>
+            </figure>        
+        </section>
+        
+        <!--Section for cat form-->
+        <section>
+            <h2>Cat Form</h2>
+            <form action="#">
+            <fieldset>
+                <legend>Is your cat an indoor or outdoor cat?</legend>
+                <input checked id="indoor" type="radio" value="indoor" name="indoor-outdoor"><label for="indoor">Indoor</label>
+                <input id="outdoor" type="radio" value="outdoor" name="indoor-outdoor"><label for="outdoor">Outdoor</label>
+            </fieldset>
+            <fieldset>
+                <legend>What's your cat's personality?</legend>
+                <input checked id="loving" type="checkbox" value="loving" name="personality"><label for="loving">Loving</label>
+                <input  id="lazy" type="checkbox" value="lazy" name="personality"><label for="lazy">Lazy</label>
+                <input  id="energetic" type="checkbox" value="energetic" name="personality"><label for="energetic">Energetic</label>
+            </fieldset>
+            <input type="text" name="catphotoURL" placeholder="Cat Photo URL" required>
+            <button type="submit">Submit</button>
+            </form>
         </section>
     </main>
 </body>

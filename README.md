@@ -1,2 +1,3 @@
-# responsivewebdesign
-Following the "Responsive Web Design" course on freecodecamp
+# Responsive Web Design
+
+In this repository I follow the Responsive Web Design course on freeCodeCamp.

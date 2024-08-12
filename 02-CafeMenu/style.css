@@ -14,6 +14,7 @@ body {
 
 h1 {
     font-size: 60px;
+    margin-top: 0;
 }
 
 .established {
@@ -26,6 +27,16 @@ h2 {
 
 h1, h2 {
     font-family: Impact, serif;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .item p {

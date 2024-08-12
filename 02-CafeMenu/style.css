@@ -1,0 +1,16 @@
+body {
+    background-image: url(images/beans.jpg);
+    font-family: sans-serif;
+}
+
+.menu {
+    background-color: burlywood;
+    width: 80%;
+    max-width: 500 px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+
+

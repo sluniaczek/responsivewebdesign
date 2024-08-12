@@ -31,4 +31,12 @@ h2 {
     margin-bottom: 5px;
 }
 
+.flavor {
+    width: 75%;
+    text-align: left;
+}
 
+.price {
+    width: 25%;
+    text-align: right;
+}

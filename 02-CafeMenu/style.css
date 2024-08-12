@@ -1,15 +1,16 @@
 body {
     background-image: url(images/beans.jpg);
     font-family: sans-serif;
+    padding: 20px;
 }
 
 .menu {
     background-color: burlywood;
     width: 80%;
-    max-width: 500 px;
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;;
+    padding: 20px;
 }
 
 h1 {
@@ -59,4 +60,8 @@ hr {
     height: 2px;
     background-color: brown;
     border-color: brown;
+}
+
+.bottom-line {
+    margin-top: 25px;
 }

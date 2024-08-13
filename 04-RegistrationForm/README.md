@@ -1,6 +1,6 @@
-Third course of the Responsive Web Design course on freeCodeCamp.org
+Fourth course of the Responsive Web Design course on freeCodeCamp.org
 
-In this project, I will build a set of colored markers.
+In this project, I will build a registration form.
 
 ## Language used
 

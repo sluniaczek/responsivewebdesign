@@ -19,3 +19,8 @@ h1 {
 .three {
     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
+
+.cap,
+.sleeve {
+    display: inline-block;
+}

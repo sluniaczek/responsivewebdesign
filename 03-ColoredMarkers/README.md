@@ -4,8 +4,8 @@ In this project, I will build a set of colored markers.
 
 ## Language used
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## What I learned
 
@@ -21,6 +21,6 @@ In this project, I will build a set of colored markers.
 ## Tasks
 
 - Create 3 differently colored markers
- - Give each marker a cap
- - Give each marker a sleeve
- - Create a shadow around them to make them look more realistically
+    - Give each marker a cap
+    - Give each marker a sleeve
+    - Create a shadow around them to make them look more realistically

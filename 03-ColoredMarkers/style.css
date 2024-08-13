@@ -11,3 +11,7 @@ h1 {
 .one {
     background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
+
+.two {
+    background: linear-gradient(#55680D, #71F53E, #116C31);
+}
